@@ -1,0 +1,19 @@
+{
+  "name": "entrega2-coderhouse-backend",
+  "version": "1.0.0",
+  "description": "Entrega 2 - Programacion Backend I - Coderhouse",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^8.0.3",
+    "socket.io": "^4.8.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

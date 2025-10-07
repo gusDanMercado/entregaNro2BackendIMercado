@@ -1,0 +1,36 @@
+[
+  {
+    "id": "665558e4-f7ff-4d1f-885c-32015dc4be6f",
+    "products": [
+      {
+        "product": "ABC123",
+        "quantity": 9
+      }
+    ]
+  },
+  {
+    "id": "80ff8fcd-3d30-4c15-9471-4d2994fe06dd",
+    "products": [
+      {
+        "product": "41c6ba45-205b-46e3-b6e7-8a3be58a6740",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": "d0ac738c-7966-4b71-b915-af185acebfc2",
+    "products": []
+  },
+  {
+    "id": "4f055113-b1c3-45ce-a5a0-af9970faf347",
+    "products": []
+  },
+  {
+    "id": "92a5be0c-5141-47b2-b12d-e2346c6ca587",
+    "products": []
+  },
+  {
+    "id": "5db7a5db-6f7a-4a0b-a706-a358d8856ef8",
+    "products": []
+  }
+]

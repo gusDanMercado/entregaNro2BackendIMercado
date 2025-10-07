@@ -1,0 +1,50 @@
+[
+  {
+    "id": "885f94be-d905-4cce-91af-dee50faaace2",
+    "title": "Gustavo",
+    "description": "Desc",
+    "code": "DEF456",
+    "price": 100,
+    "status": true,
+    "stock": 10,
+    "category": "Categoria",
+    "thumbnails": [
+      "/img/1.png"
+    ]
+  },
+  {
+    "id": "1581e639-34da-43ff-860f-cfb83e3b65b6",
+    "title": "Daniel",
+    "description": "Desc",
+    "code": "GHI789",
+    "price": 100,
+    "status": true,
+    "stock": 10,
+    "category": "Categoria",
+    "thumbnails": [
+      "/img/6.png"
+    ]
+  },
+  {
+    "id": "a4456d6c-4b06-461b-bfbc-85ff64e05bc4",
+    "title": "dddd",
+    "description": "dfdf",
+    "code": "dfdf",
+    "price": 233,
+    "status": true,
+    "stock": 55,
+    "category": "nueva",
+    "thumbnails": []
+  },
+  {
+    "id": "b8405ca9-5edd-4e90-bbbb-6f6075681acd",
+    "title": "dd",
+    "description": "dfdf",
+    "code": "dfdf",
+    "price": 33,
+    "status": true,
+    "stock": 333,
+    "category": "nueva",
+    "thumbnails": []
+  }
+]
